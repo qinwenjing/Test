@@ -13,5 +13,8 @@ public class simpleTest {
         System.out.println("updatedev001");
         System.out.println("updatedev002");
 
+
+        int mmm = 0;
+
     }
 }
