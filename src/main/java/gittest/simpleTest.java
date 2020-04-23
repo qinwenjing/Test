@@ -16,5 +16,7 @@ public class simpleTest {
 
         int mmm = 0;
 
+        System.out.println("master先添加代码");
+
     }
 }
