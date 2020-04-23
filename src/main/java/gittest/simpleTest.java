@@ -21,5 +21,7 @@ public class simpleTest {
 
         System.out.println("master666");
 
+
+        int  newdddd = 100;
     }
 }
