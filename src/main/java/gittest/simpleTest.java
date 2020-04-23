@@ -16,5 +16,7 @@ public class simpleTest {
 
         System.out.println("master555");
 
+        System.out.println("master666");
+
     }
 }
