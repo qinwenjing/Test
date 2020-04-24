@@ -26,5 +26,7 @@ public class simpleTest {
 
 
         int  newdddd = 100;
+
+        System.out.println("qqqqqqq");
     }
 }
