@@ -36,9 +36,7 @@ public class simpleTest {
 
         System.out.println("eeeeeee");
 
-        System.out.println("rrrrrrr");
-
-
+        System.out.println("ttttttttt");
 
     }
 }
