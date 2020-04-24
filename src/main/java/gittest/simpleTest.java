@@ -1,5 +1,7 @@
 package gittest;
 
+import javax.ws.rs.HEAD;
+
 public class simpleTest {
     public static void main(String[] args) {
         System.out.println("maste000");
@@ -36,6 +38,7 @@ public class simpleTest {
 
         System.out.println("rrrrrrr");
 
-        System.out.println("ttttttt");
+
+
     }
 }
