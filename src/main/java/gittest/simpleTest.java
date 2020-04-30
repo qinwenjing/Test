@@ -38,6 +38,9 @@ public class simpleTest {
 
         System.out.println("dddddd");
 
+        System.out.println("bbbbbb");
+        System.out.println("dddddd");
+
         System.out.println("ffffff");
 
         System.out.println("ssssss");
