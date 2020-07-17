@@ -55,7 +55,7 @@ public class simpleTest {
 
         System.out.println("dddddd");
 
-        System.out.println("qwerasdf");
+        System.out.println("qwer");
 
 
     }
